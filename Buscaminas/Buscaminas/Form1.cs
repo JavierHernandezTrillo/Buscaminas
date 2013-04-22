@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- *  NOMBRE:
- *  APELLIDOS: 
+ *  NOMBRE:Javier 
+ *  APELLIDOS: Hernández Trillo
  *  ESTO ES UNA PRUEBA DE GITHUB
  * 
  */
